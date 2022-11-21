@@ -1,0 +1,15 @@
+C:\xampp\htdocs\Logica\bin\Debug\net6.0\Logica.exe
+C:\xampp\htdocs\Logica\bin\Debug\net6.0\Logica.deps.json
+C:\xampp\htdocs\Logica\bin\Debug\net6.0\Logica.runtimeconfig.json
+C:\xampp\htdocs\Logica\bin\Debug\net6.0\Logica.dll
+C:\xampp\htdocs\Logica\bin\Debug\net6.0\Logica.pdb
+C:\xampp\htdocs\Logica\obj\Debug\net6.0\Logica.csproj.AssemblyReference.cache
+C:\xampp\htdocs\Logica\obj\Debug\net6.0\Logica.GeneratedMSBuildEditorConfig.editorconfig
+C:\xampp\htdocs\Logica\obj\Debug\net6.0\Logica.AssemblyInfoInputs.cache
+C:\xampp\htdocs\Logica\obj\Debug\net6.0\Logica.AssemblyInfo.cs
+C:\xampp\htdocs\Logica\obj\Debug\net6.0\Logica.csproj.CoreCompileInputs.cache
+C:\xampp\htdocs\Logica\obj\Debug\net6.0\Logica.dll
+C:\xampp\htdocs\Logica\obj\Debug\net6.0\refint\Logica.dll
+C:\xampp\htdocs\Logica\obj\Debug\net6.0\Logica.pdb
+C:\xampp\htdocs\Logica\obj\Debug\net6.0\Logica.genruntimeconfig.cache
+C:\xampp\htdocs\Logica\obj\Debug\net6.0\ref\Logica.dll
